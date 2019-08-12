@@ -1,0 +1,12 @@
+﻿  ClothesForSale.cpp
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(430): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(508): warning C4129: 'N': unrecognized character escape sequence
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(454): warning C4101: 'item': unreferenced local variable
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(527): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(637): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\abdelrahman badran\source\repos\dstrassignment\dstrassignment\clothesforsale.cpp(645): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  DSTRAssignment.vcxproj -> C:\Users\Abdelrahman Badran\source\repos\DSTRAssignment\Debug\DSTRAssignment.exe
